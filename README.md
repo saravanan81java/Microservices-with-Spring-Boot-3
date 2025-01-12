@@ -1,5 +1,4 @@
-# Microservices-with-Spring-Boot-3
-Microservices with Spring Boot 3 presentation
+# Microservices with Spring Boot 3 presentation
 
 What We'll Cover Today
 - Introduction
