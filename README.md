@@ -12,7 +12,7 @@ What We'll Cover Today
 - Introduction Spring Boot 3
 - Q&A
 
-# System Design for Taxi Aggregator Applications (Uber, OLA)
+# System Design for Taxi Aggregator Applications (Uber,OLA)
 
 Introduction
 
